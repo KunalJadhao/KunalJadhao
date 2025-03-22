@@ -3,7 +3,7 @@
 🧑‍🎓Graduate Aspiring Robotics Engineer<br/>
 🙋Former Volunteer Head at Pahal an initiation<br/>
 🦾I create ROS2 Nodes and Work on Opencv and Computer vison to Stay Consistent<br/>
-🎞️I make Videos on Youtube Vlog and I am a Educator at Heart [Youtube] (https://www.youtube.com/@Scribblerkunal)<br/>
+🎞️I make Videos on Youtube Vlog and I am a Writer at Heart [Youtube] (https://www.youtube.com/@Scribblerkunal)<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kunal.jadhav.9256) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kj_cool_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunaljadhav07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCt-8yqCt-lgZ2LadgobzXhQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connectkunaljadhav@gmail.com) 
